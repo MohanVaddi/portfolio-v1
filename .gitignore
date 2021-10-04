@@ -1,0 +1,7 @@
+#ignore all haters
+/haters
+
+node_modules/
+dist/
+yarn.lock
+package-lock.json
